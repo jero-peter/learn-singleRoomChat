@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/learn-singleRoomChat/static/css/main.af24f037.chunk.css",
-    "main.js": "/learn-singleRoomChat/static/js/main.2dff93f8.chunk.js",
-    "main.js.map": "/learn-singleRoomChat/static/js/main.2dff93f8.chunk.js.map",
+    "main.js": "/learn-singleRoomChat/static/js/main.d90b374b.chunk.js",
+    "main.js.map": "/learn-singleRoomChat/static/js/main.d90b374b.chunk.js.map",
     "runtime-main.js": "/learn-singleRoomChat/static/js/runtime-main.ff39a4d3.js",
     "runtime-main.js.map": "/learn-singleRoomChat/static/js/runtime-main.ff39a4d3.js.map",
     "static/js/2.ab028edc.chunk.js": "/learn-singleRoomChat/static/js/2.ab028edc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff39a4d3.js",
     "static/js/2.ab028edc.chunk.js",
     "static/css/main.af24f037.chunk.css",
-    "static/js/main.2dff93f8.chunk.js"
+    "static/js/main.d90b374b.chunk.js"
   ]
 }
